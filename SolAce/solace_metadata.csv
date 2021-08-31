@@ -1,0 +1,21 @@
+NumericID,DescriptiveID,Description,Unit,Type
+3200000,temp_amb, Ambient temperature [°C],roof,Temperature Ambient
+3200008,irrad, Global solar irradiation [W/m^2],roof,Solar Radiation
+42180043,Y1_meeting, Valve position living part [%],solace,Valve
+42180045,Y1_office, Valve position office part [%],solace,Valve
+42180159,blinds_height_F1, Blinds height office part F1 [%],solace,Blinds
+42180160,blinds_angle_F1, Blinds angle office part F1 [%],solace,Blinds
+42180170,blinds_height_F2, Blinds height office part F2 [%],solace,Blinds
+42180171,blinds_angle_F2, Blinds angle office part F2 [%],solace,Blinds
+42180179,blinds_height_F3, Blinds height office part F3 [%],solace,Blinds
+42180187,blinds_height_F4, Blinds height office part F4 [%],solace,Blinds
+42180023,temp_meeting, Temperature living part [°C],solace,Temperature Indoor
+42180034,temp_office, Temperature office part [°C],solace,Temperature Indoor
+42180024,setp_meeting, Temperature setpoint living part [°C],solace,Temperature Indoor
+42180035,setp_office, Temperature setpoint office part [°C],solace,Temperature Indoor
+42160122,heating_power, Heating power unit [kW],solace,Heating Power
+42160203,cooling_power, Cooling power unit [kW],solace,Cooling Power
+42160278,pv_active_power,PV electric active power [kW],solace,Electricity PV
+42160255,total_active_power,Total electric active power [kW],solace,Electricity Total
+42180007,praes_office,Presence detection in the office [0/1],solace,Presence
+42180000,praes_meeting,Presence detection in the linving room [0/1],solace,Presence

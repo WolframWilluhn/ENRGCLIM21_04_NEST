@@ -1,0 +1,29 @@
+NumericID,DescriptiveID,Description,Unit,Type
+3200000,temp_amb, Ambient temperature [°C],roof,Temperature Ambient
+3200008,irrad, Global solar irradiation [W/m^2],roof,Solar Radiation
+42150270,Y1_272, Valve position room 272 [0/1],umar,Valve
+42150271,Y1_273, Valve 1 position room 273 [0/1],umar,Valve
+42150272,Y2_273, Valve 2 position room 273 [0/1],umar,Valve
+42150273,Y3_273, Valve 3 position room 273 [0/1],umar,Valve
+42150274,Y1_274, Valve position room 274 [0/1],umar,Valve
+42150275,Y1_275, Valve position room 275 [0/1],umar,Valve
+42150276,Y1_276, Valve position room 276 [0/1],umar,Valve
+42150284,window_272, Window position room 272 [0/1],umar,Window
+42150285,window_273_1, Window 1 position room 273 [0/1],umar,Window
+42150286,window_273_2, Window 2 position room 273 [0/1],umar,Window
+42150287,window_274, Window position room 274 [0/1],umar,Window
+42150288,temp_272, Temperature room 272 [°C],umar,Temperature Indoor
+42150300,temp_273, Temperature room 273 [°C],umar,Temperature Indoor
+42150312,temp_274, Temperature room 274 [°C],umar,Temperature Indoor
+42150324,temp_275, Temperature room 275 [°C],umar,Temperature Indoor
+42150336,temp_276, Temperature room 276 [°C],umar,Temperature Indoor
+42150294,setp_272, Temperature setpoint room 272 [°C],umar,Temperature Indoor
+42150306,setp_273, Temperature setpoint room 273 [°C],umar,Temperature Indoor
+42150318,setp_274, Temperature setpoint room 274 [°C],umar,Temperature Indoor
+42150330,setp_275, Temperature setpoint room 275 [°C],umar,Temperature Indoor
+42150342,setp_276, Temperature setpoint room 276 [°C],umar,Temperature Indoor
+42150459,cooling_power, Cooling power unit [kW],umar,Heating Power
+42150477,heating_power, Heating power unit [kW],umar,Cooling Power
+42150262,dhw_power,Charging power of domestic hot water storage [kW],umar,Electricity Water
+42150269,dhw_volume,Volume flow of domestic hot water storage [m^3/h],umar,Water
+42150423,total_active_power,Total electric active power [kW],umar,Electricity Total
