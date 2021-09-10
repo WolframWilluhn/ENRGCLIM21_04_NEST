@@ -34,7 +34,7 @@ The model was trained using Jupyter notebooks on Google Collab on a subset of th
 
 ## The prototype
 Featurewiz selected 11 optimal features:
-(Image)
+![Title](https://github.com/WolframWilluhn/ENRGCLIM21_04_NEST/blob/main/Modelling/Sampled_fulldata_extended.png)
 
 TPOT chose the XGBRegressor moddel as the best pipeline.
 
